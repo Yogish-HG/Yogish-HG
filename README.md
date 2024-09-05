@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://yogish.info/](https://yogish.info/)
 
-- 📫 How to reach me **hg15yogish@gmail.com**
+- 📫 How to reach me **yogish.developer@gmail.com**
 
 - ⚡ Fun fact **The first message sent over the Internet was "LO" – it was meant to be "LOGIN," but the system crashed after the first two letters!**
 
